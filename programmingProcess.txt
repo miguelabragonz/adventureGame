@@ -1,0 +1,22 @@
+Objective:
+The objective of this code is to create a story where the user can make choices and therefore alter the ending of the story
+
+List of variables:
+choice1
+choice2
+choice3
+choice4
+scenario 1
+scenario 2
+scenario 3
+scenario 4
+scenario 5
+
+pseudo code:
+player starts at beginning
+read out scenario
+give out choices:action1, action2, action3, and action4
+if action1 chosen got to scenario 2
+if action2 chosen got to scenario 3
+if action3 chosen got to scenario 4
+if action4 chosen got to scenario 5
